@@ -133,7 +133,7 @@ DeepFake-Image-Detection/
 Clone the repository
 
 ```bash
-git clone https://github.com/Rishiii/DeepFake-Image-Detection.git
+git clone https://github.com/Ri5hiii/DeepFake-Image-Detection.git
 ```
 
 Move into the project directory
