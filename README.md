@@ -119,17 +119,11 @@ The application provides:
 
 ```
 DeepFake-Image-Detection/
-│
-├── app.py
-├── train.py
-├── predict.py
-├── dataset/
-├── models/
-├── utils/
-├── best_model.pth
-├── requirements.txt
+├── GUI/
+├── Screenshots/
 ├── README.md
-└── assets/
+├── train_efficientnet_b4.py
+├── requirements.txt
 ```
 
 ---
